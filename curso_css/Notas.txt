@@ -1,0 +1,15 @@
+-elemento en bloque es un elemento que ocupa toda la caja
+-elemento en linea el ancho va hacer dependiendo del contenido de la caja
+-display inline para cambiar el si es tipo bloque o en linea
+
+
+Propiedades de caja
+
+-padding: distancia entre la caja y el texto
+-xxx (arr_y_abaj) (izq_y_der)
+-xxx arr,der,abaj,izq
+-xxx arr,der_y_izq,abaj
+-box-sizing border box (para no deformarce)
+-text-align : center (centra el texto)
+-margin: distancia entre dos cajas
+-borde radius: redondear los bordes

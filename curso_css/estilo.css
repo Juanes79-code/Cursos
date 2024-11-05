@@ -4,17 +4,11 @@
 	font-size: 30px;
 }
 
-.caja1{
-	width: 200px;
-	height: 200px;
-	background-color: beige;
-	margin: auto;
-	border:1px solid black;
-}
-.caja2{
-	width: 200px;
-	height: 200px;
-	background-color: lightcoral;
-	margin: auto;
-	border:1px solid black;
+h2{
+	display: inline-block;
+	background-color: red;
+	padding: 100px;
+	margin: 10px;
+	border-radius: 100px;
+	line-height: ;
 }
